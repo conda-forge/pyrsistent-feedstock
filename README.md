@@ -5,11 +5,9 @@ Home: http://github.com/tobgu/pyrsistent/
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyrsistent-feedstock/blob/master/LICENSE.txt)
 
 Summary: Persistent/Functional/Immutable data structures
-
-
 
 Current build status
 ====================
